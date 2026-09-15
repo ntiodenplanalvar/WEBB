@@ -1,0 +1,41 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(85, 255, 0);
+    font-family: Helvetica;
+}
+
+body {
+    background-image: linear-gradient(to left, rgb(150, 6, 150),rgb(247, 0, 255), rgb(255, 0, 195));
+}
+
+p {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: x-large;
+    font-family:'Segoe UI';
+}
+
+ol {
+    color: rgb(255, 255, 255);
+}
+
+ul {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:link {
+    color: darkmagenta;
+    text-decoration: none;
+}

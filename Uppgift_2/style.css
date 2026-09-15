@@ -1,0 +1,17 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: tomato;
+    background-color: lightblue;
+}
+
+h2 {
+    color: lightgreen;
+    background-color: purple;
+}
+
+p {
+    color: purple;
+}
