@@ -10,7 +10,8 @@ h6 {
 }
 
 body {
-    background-image: linear-gradient(to left, rgb(150, 6, 150),rgb(247, 0, 255), rgb(255, 0, 195));
+    /* background-image: linear-gradient(to left, rgb(150, 6, 150),rgb(247, 0, 255), rgb(255, 0, 195)); */
+    background-image: url("./img/11787.jpg");
 }
 
 p {
