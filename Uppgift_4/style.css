@@ -1,0 +1,47 @@
+div {
+    background-color:  blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}
+
+.links{
+    background-color: black;
+    padding: 30px;
+    font-size: 2rem;
+    font-family: Impact;
+}
+
+h1 {
+    font-family: "Syne Tactile", Cambria, Arial;
+    font-size: 4rem;
+    border: 4px solid black;
+    background-color: lightblue;
+    width: 500px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    margin-top: 25px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.syne-tactile-regular {
+    font-family: "Syne Tactile", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
