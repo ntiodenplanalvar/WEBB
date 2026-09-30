@@ -1,0 +1,31 @@
+h1 {
+    background-color: yellow;
+    color: blue;
+    text-align  : center;
+    border: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+div {
+    background-color:rgb(186, 186, 186);
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url(./img/showcase.jpg);
+}
+
+p {
+    padding-left: 20px;
+}
+
+.HTMLCSSJS {
+    display: block;
+    margin: auto;
+}
+
