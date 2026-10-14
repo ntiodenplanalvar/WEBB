@@ -12,4 +12,6 @@ skolaaaaaaaaaaaaaaaaaaa
 
 [Uppgift 6](https://ntiodenplanalvar.github.io/WEBB/Uppgift_6/index.html)
 
+[Uppgift 7](https://ntiodenplanalvar.github.io/WEBB/Uppgift_7/index.html)
 
+[Uppgift 8](https://ntiodenplanalvar.github.io/WEBB/Uppgift_8/index.html)
